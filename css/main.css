@@ -2409,7 +2409,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/winover-baner.png) center;
+  background: url(../img/img-bg-top.png) center;
   background-size: cover;
 }
 
@@ -2485,7 +2485,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-product .thumb {
   padding: 40px;
-  border-bottom: 1px solid #eee;
+  height: 273px;
 }
 
 .single-product .details {
