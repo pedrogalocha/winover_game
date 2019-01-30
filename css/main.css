@@ -2676,6 +2676,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
 }
 
+#FAQ .margin-l {
+  margin-left: 5%;
+}
+
 .single-brand img {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
