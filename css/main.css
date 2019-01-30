@@ -2587,9 +2587,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-video-right {
-  background: url(../img/TV-1.png) no-repeat center;
+  background: url(../img/brinde-tv.png) no-repeat center;
   background-size: cover;
-  height: 330px;
+  height: 480px;
 }
 
 .about-video-right .overlay-bg {
